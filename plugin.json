@@ -1,0 +1,19 @@
+{
+ "type": "ecmascript",
+  "id": "xtream_live",
+  "file": "xtream_live.js",
+  "category": "tv",
+  "showtimeVersion": "0.0.1",
+  "version": "0.0.1",
+  "author": "Allen (@Allen)",
+  "title": "Xtream Live",
+  "icon": "xtream_live.bmp",
+  "synopsis": "xtream live for test",
+  "description":"<p>just for test xtream live api.</p>",
+  "homepage":"https://github.com/luckxiang",
+  "setting":{
+    "url": "",
+    "username": "",
+    "password": ""
+    }
+}
